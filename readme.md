@@ -10,6 +10,14 @@ O Git foi criado pelo engenheiro de software Linus Torvalds, conhecido por ter d
 
 ## Comandos básicos
 
+## Configurando o Git
+
+#### Configuração necessária para a utilização do Git
+```
+git config --global user.name "Meu nome"
+
+git config --global user.email "meu@email.com"
+```
 #### Inicializa o repositório
 ```
 git init
