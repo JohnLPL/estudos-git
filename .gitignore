@@ -1,0 +1,5 @@
+teste.txt
+temp/
+temp/*
+*.mp3
+!temp/teste.txt
