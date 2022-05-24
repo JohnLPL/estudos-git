@@ -72,6 +72,23 @@ Outros, dono, grupo.
 Other, owner, group.
 Read, write, execute. # rwx
 
+## Trabalhando com branch
+
+#### Criando uma nova branch
+```
+git checkout -b nome_branch
+```
+
+#### Alternando entre branch's
+```
+git checkout nome_branch
+```
+
+#### Juntando as mudanças entre branch's
+```
+git merge nome_branch_que_quero_puxar
+```
+
 # Referências
 
 1. [Canal William Justen](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
